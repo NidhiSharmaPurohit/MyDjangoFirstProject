@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../fbcSerializers/.idea/fbcSerializers.iml" filepath="$PROJECT_DIR$/../fbcSerializers/.idea/fbcSerializers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/maxinSerializer.iml" filepath="$PROJECT_DIR$/.idea/maxinSerializer.iml" />
+    </modules>
+  </component>
+</project>
