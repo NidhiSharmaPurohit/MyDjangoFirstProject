@@ -19,6 +19,8 @@ from maxinApp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('students/',views.StudentList.as_view())
+    path('students/',views.StudentList.as_view()),
+    path('studentss/',views.StudentList.as_view())
+
 ]
 
